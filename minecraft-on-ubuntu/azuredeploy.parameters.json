@@ -15,10 +15,10 @@
       "value": "uniquednsname"
     },
     "minecraftServerVersion": {
-      "value": "1.9"
+      "value": "1.12.2"
     },
     "difficulty": {
-      "value": "1"
+      "value": "3"
     },
     "level-name": {
       "value": "world"
@@ -40,6 +40,12 @@
     },
     "level-seed": {
       "value": " "
+    },
+    "forge-version": {
+      "value": "14.23.5.2854"
+    },
+    "curse-modpack-name": {
+      "value": "automaton"
     }
   }
 }
