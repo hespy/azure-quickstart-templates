@@ -31,7 +31,8 @@
       "defaultValue": "1.9",
       "allowedValues": [
         "1.8",
-        "1.9"
+        "1.9",
+        "1.12.2"
       ],
       "metadata": {
         "description": "1.8 - Minecraft Version 1.8, 1.9 - Minecraft Version 1.9"
@@ -119,6 +120,20 @@
       "defaultValue": " ",
       "metadata": {
         "description": "Add a seed for your world"
+      }
+    },
+    "forge-version": {
+      "type": "string",
+      "defaultValue": "14.23.5.2854",
+      "metadata": {
+        "description": "Enter Forge Version"
+      }
+    },
+    "curse-modpack-name": {
+      "type": "string",
+      "defaultValue": "automaton",
+      "metadata": {
+        "description": "Curse Modpack Name to install"
       }
     }
   },
